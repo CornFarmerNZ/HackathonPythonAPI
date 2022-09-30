@@ -37,7 +37,6 @@ six==1.16.0
 tensorboard-data-server==0.6.1
 tensorboard-plugin-wit==1.8.1
 tensorboard==2.10.1
-tensorflow-deps==2.8.0
 tensorflow-estimator==2.10.0
 tensorflow-macos==2.10.0
 tensorflow-metal==0.6.0
